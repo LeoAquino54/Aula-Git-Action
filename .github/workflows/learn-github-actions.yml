@@ -1,7 +1,7 @@
 name: Teste Github
 on: [push]
-jobs:
+jobs: 
   Explore-GitHub-Actions:
-  runs-on: ubuntu-latest
-  steps:
-    - run: echo "teste"
+    runs-on: ubuntu-latest
+    steps: 
+      - run: echo "Teste"
