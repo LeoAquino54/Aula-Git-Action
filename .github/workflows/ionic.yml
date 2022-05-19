@@ -9,4 +9,4 @@ jobs:
         with: 
           ionic-version: '6'
       - run: npm install -g @ionic/cli
-      - run: ng --version
+      - run: npm --version
