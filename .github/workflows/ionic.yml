@@ -1,4 +1,4 @@
-name: Git Action
+name: Git Action Ionic
 on: push
 jobs:
   check-angular-version:

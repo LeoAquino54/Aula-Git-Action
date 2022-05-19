@@ -1,4 +1,4 @@
-name: Git Action
+name: Git Action Main
 on: push
 jobs:
   check-angular-version:
